@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hello There, This is the master branch code.
-      Hello There, This is the test branch code.
+      Hey There, I'm new.
     </div>
   );
 }
